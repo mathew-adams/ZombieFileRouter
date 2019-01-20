@@ -1,0 +1,2 @@
+# Zombie File Router
+A simple file router for transferring movies to a configurable location. Intented to be extended by ZombieFileRename, this program will take recently renamed movie files and move them to directory or drive on the machine. Windows doesn't allow entire directories to be moved in code without either a windows API or moving each file first. ZomieFileRouter will handle all use-cases. 
